@@ -25,3 +25,6 @@ tags
 *swp
 \.mchg\.mchg
 .ycm_extra_conf*
+
+.idea/
+cmake-build-debug/
